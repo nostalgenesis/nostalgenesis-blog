@@ -1,0 +1,37 @@
+---
+const links = [
+    { href: "/lab", label: "{Lab}" },
+    { href: "/textus", label: "[.textus]" },
+    { href: "/chi-sono", label: "/Chi sono/" },
+];
+---
+
+<nav aria-label="Principale">
+    <ul>
+        {links.map(({ href, label }) => (
+            <li><a href={href}>{label}</a></li>
+        ))}
+    </ul>
+</nav>
+
+<style>
+    nav ul {
+        display: flex;
+        gap: 1.25rem;
+        list-style: none;
+        margin: 0;
+        padding: 0;
+    }
+
+    nav a {
+        font-family: 'Libre Baskerville', serif;
+        font-size: 0.95rem;
+        color: #1a1a1a;
+        text-decoration: none;
+    }
+
+    nav a:hover {
+        text-decoration: underline;
+        text-underline-offset: 0.25em;
+    }
+</style>

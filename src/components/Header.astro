@@ -1,0 +1,25 @@
+---
+const path = Astro.url.pathname;
+const links = [
+    { href: "/lab", label: "{Lab}" },
+    { href: "/testi", label: "[.textus]" },
+    { href: "/chisono", label: "/Chi sono/" },
+];
+---
+<header>
+    <div class="header-top">
+        <div class="site-title">
+            <a href="/">
+                <span class="title-line">Nostalgenesis</span>
+            </a>
+        </div>
+        <nav>
+            <ul>
+                {links.map(({ href, label }) => (
+                    <li><a href={href} class:list={{ active: path === href }}>{label}</a></li>
+                ))}
+            </ul>
+        </nav>
+    </div>
+    <p class="site-tagline">Filologia, Digital Humanities ed eresie varie</p>
+</header>
