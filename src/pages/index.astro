@@ -1,27 +1,74 @@
 ---
 import Layout from '../layouts/Layout.astro';
+
+import type { MarkdownInstance } from 'astro';
+
+const posts = Object.values(
+  import.meta.glob<MarkdownInstance<{ title: string; date: string }>>(
+    './articoli/*.md',
+    { eager: true }
+  )
+).sort(
+  (a, b) =>
+    new Date(b.frontmatter.date).getTime() -
+    new Date(a.frontmatter.date).getTime()
+);
 ---
-<Layout title="Daniel Di Primo · Filologia, Digital Humanities ed eresie varie">
-    <ul class="article-list">
-        <li>
-            <span class="date">06/09/26</span>
-            <a href="/articoli/amichai-tra-le-stelle-1982">Tra le stelle potresti aver ragione (1982)</a>
-        </li>
-        <li>
-            <span class="date">06/09/26</span>
-            <a href="/tool/atlantino">Atlantino</a>
-        </li>
-        <li>
-            <span class="date">01/09/26</span>
-            <a href="/articoli/ai-piedi-del-vulcano-1992">Ai piedi del vulcano (1992): Etna, fato, ri-umanizzazione del nemico</a>
-        </li>
-        <li>
-            <span class="date">29/08/26</span>
-            <a href="/articoli/amichai-un-uomo-in-vita-sua-1982">Un uomo in vita sua (1982): l’anti-Qoelet di Yehuda Amichai</a>
-        </li>
-        <li>
-            <span class="date">27/08/26</span>
-            <a href="/articoli/mondo-cane-1962">Mondo cane (1962): una scandalosa etnoparadossografia</a>
-        </li>
-    </ul>
+<Layout title="Nostalgenesis · Filologia, Digital Humanities ed eresie varie">
+
+<ul>
+  {posts.map((post, i) => (
+    <li>
+      <time datetime={post.frontmatter.date}>
+        {new Date(post.frontmatter.date).toLocaleDateString('it-IT', {
+          day: '2-digit',
+          month: '2-digit',
+          year: '2-digit',
+          timeZone: 'UTC',
+        })}
+      </time>
+      <a href={post.url}>{post.frontmatter.title}</a>
+      {i < posts.length - 1 && <div class="separatore">❦ ❦ ❦ ❦ ❦</div>}
+    </li>
+  ))}
+</ul>
+
 </Layout>
+
+<style>
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    margin: 2.5rem 0;
+  }
+
+  time {
+    color: #777;
+    font-size: 0.85rem;
+    margin-right: 0.75rem;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 1.1rem;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  .separatore {
+    text-align: center;
+    color: #999;
+    font-size: 0.8rem;
+    margin-top: 2.5rem;
+    letter-spacing: 0.3em;
+    user-select: none;
+  }
+</style>
