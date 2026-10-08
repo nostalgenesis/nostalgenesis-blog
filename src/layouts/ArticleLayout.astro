@@ -17,9 +17,8 @@ const plainTitle = title ? title.replace(/<[^>]*>?/gm, '') : '';
       <h1 set:html={title} />
     </header>
 
-    <hr />
-    <slot />
-    <hr />
+      <slot />
+
 
     {bibliografia && (
       <section class="bibliografia">
