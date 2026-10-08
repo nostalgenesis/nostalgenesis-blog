@@ -79,7 +79,6 @@ una volta per tutte!
 > [E affileranno le spade in vomeri e i vomeri in spade,  
 e ancora e ancora, sciagura, senza tregua.] [^3]
 
-[^1]: Non viene mai esplicitato che il “vulcano in Sicilia” sia proprio l’Etna, che [nel 1971 vide una delle sue eruzioni più lunghe di tutto il secolo](https://www.go-etna.it/blog/eruzione-del-1971-inferno-sulletna/), durata da aprile a giugno. È facile immaginare come un titolo giornalistico su un tale evento possa colpire l’immaginazione di un poeta e scrittore. ↩︎
-Forse che uomo e natura coincidano, alla fine?
+[^1]: Non viene mai esplicitato che il “vulcano in Sicilia” sia proprio l’Etna, che [nel 1971 vide una delle sue eruzioni più lunghe di tutto il secolo](https://www.go-etna.it/blog/eruzione-del-1971-inferno-sulletna/), durata da aprile a giugno. È facile immaginare come un titolo giornalistico su un tale evento possa colpire l’immaginazione di un poeta e scrittore. 
 [^2]: Forse che uomo e natura coincidano, in fin dei conti?
 [^3]: Le voci che ripetono questo distico negli ultimi due minuti riprendono il finale di una poesia di Yehuda Amichai, Una sorta di fine dei tempi, che a sua volta allude a Isaia 2:4: *“essi, con le loro spade, costruiranno vomeri di aratro e, con le loro lance, falci; una nazione non alzerà più la spada contro un’altra e non impareranno più la guerra”*.
