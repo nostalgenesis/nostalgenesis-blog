@@ -27,7 +27,7 @@ const posts = Object.values(
           timeZone: 'UTC',
         })}
       </time>
-      <a href={post.url}>{post.frontmatter.title}</a>
+      <a href={post.url} set:html={post.frontmatter.title}></a>
       {i < posts.length - 1 && <div class="separatore">❦ ❦ ❦ ❦ ❦</div>}
     </li>
   ))}

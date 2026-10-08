@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ArticleLayout.astro
-title: "Tra le stelle potresti aver ragione (1982)"
+title: "<em>Tra le stelle potresti aver ragione</em> (1982)"
 date: 2026-09-06, 18:00
 ---
 

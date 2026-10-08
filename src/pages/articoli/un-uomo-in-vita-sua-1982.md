@@ -1,9 +1,9 @@
 ---
 layout: ../../layouts/ArticleLayout.astro
-title: "Un uomo in vita sua (1982): l’anti-Qoelet di Yehuda Amichai"
+title: "<em>Un uomo in vita sua</em> (1982): l’anti-Qoelet di Yehuda Amichai"
 date: 2026-08-29
 ---
-*Traduzione della poesia Un uomo in vita sua dalla raccolta **L’ora della grazia** (1982) del poeta israeliano Yehuda Amichai.*
+*Traduzione della poesia **Un uomo in vita sua** dalla raccolta **L’ora della grazia** (1982) del poeta israeliano Yehuda Amichai.*
 
 <figure>
   <img src="/immagini/fichi.jpg" alt="Foto di fichi.">

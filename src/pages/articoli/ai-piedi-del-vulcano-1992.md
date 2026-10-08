@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ArticleLayout.astro
-title: "Ai piedi del vulcano (1992): Etna, fato, ri-umanizzazione del nemico"
+title: "<em>Ai piedi del vulcano</em> (1992): Etna, fato, ri-umanizzazione del nemico"
 date: 2026-09-01
 ---
 

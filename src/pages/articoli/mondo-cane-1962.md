@@ -1,6 +1,6 @@
 ---
 layout: ../../layouts/ArticleLayout.astro
-title: "Mondo cane (1962): una scandalosa etnoparadossografia"
+title: "<em>Mondo cane</em> (1962): una scandalosa etnoparadossografia"
 date: 2026-08-28
 bibliografia:
   - "Fabrizio Fogliato, <em>Paolo Cavara. Gli occhi che raccontano il mondo</em>, Edizioni Il Foglio, 2014."
