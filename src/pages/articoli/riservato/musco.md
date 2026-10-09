@@ -1,11 +1,14 @@
 ---
 layout: ../../../layouts/ArticleLayout.astro
-title: "A. Musco, <em>Inventario dei saperi mediterranei tra età classica e medievale</em>"
-date: 2026-10-09
+title: "Alessandro Musco, <em>Inventario dei saperi mediterranei tra età classica e medievale</em>"
+date: 2008-06-27
 --- 
 
-# CATASTO INTELLETTUALE MEDITERRANEO (C.I.M)
+## Nota editoriale di Nostalgenesis (09/10/2026)
 
+Il seguente testo, del prof. Alessandro Musco, è il capitolo introduttivo del volume <b>I saperi mediterranei</b>, relativo al I Laboratorio Internazionale del Progetto di Ricerca intitolato "Catasto Intellettuale Mediterraneo/Catasto Intelectual Mediterraneo" tenutosi a Palermo tra il 27 e il 28 giugno 2008 e coordinato dallo stesso prof. Musco.  
+
+# CATASTO INTELLETTUALE MEDITERRANEO (C.I.M)
 *Inventario dei saperi mediterranei tra età classica e medievale*
 
 ## 1. *Obiettivo in Sintesi*
