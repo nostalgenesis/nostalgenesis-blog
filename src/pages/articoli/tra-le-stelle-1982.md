@@ -11,10 +11,10 @@ Pubblicata in onore della XXVII Giornata Europea della Cultura Ebraica, il cui t
 ma non qui”, e mentre parlavamo  
 passasti a un pianto muto, come quando a metà lettera  
 si passa dal nero al blu se si secca la penna,  
-o come, un tempo, si usava cambiare cavallo durante il viaggio  
+o come, un tempo, si usava cambiare cavallo durante il viaggio,  
 il discorso si è stancato, il pianto lo ha rinfrescato.  
 > 
-> Semi d’estate volarono dentro la stanza.
+> Semi d’estate volarono dentro la stanza.  
 Di fronte alla finestra si vedeva un mandorlo annerito,  
 un altro combattente ardito in questa guerra eterna  
 del dolce contro l’amaro.  
