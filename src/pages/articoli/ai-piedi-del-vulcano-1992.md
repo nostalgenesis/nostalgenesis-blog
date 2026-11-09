@@ -2,9 +2,9 @@
 layout: ../../layouts/ArticleLayout.astro
 title: "<em>Ai piedi del vulcano</em> (1992): Etna, fato, ri-umanizzazione del nemico"
 date: 2026-09-01
+introduzione: |
+    (Già pubblicato <a href="https://incontrosenzafine.wordpress.com/2026/08/12/ai-piedi-del-vulcano-1992-etna-fato-ri-umanizzazione-del-nemico/">altrove</a> il 12 agosto 2026.)
 ---
-
-*(Già pubblicato [altrove](https://incontrosenzafine.wordpress.com/2026/08/12/ai-piedi-del-vulcano-1992-etna-fato-ri-umanizzazione-del-nemico/) il 12 agosto 2026.)*
 
 Il vulcano, si sa, è il simbolo per eccellenza della forza distruttrice della natura, della sua capacità di spazzare via, senza cura, ciò che l’umanità costruisce e ama, almeno fin da Leopardi e da Pompei. Questa figura classica presenta al contempo anche l’altro lato della medaglia, il più chiaro esempio della natura resiliente dell’Uomo stesso, che è in grado di ricostruire sopra le ceneri e sopra i suoi stessi antenati sepolti dalle colate.
 

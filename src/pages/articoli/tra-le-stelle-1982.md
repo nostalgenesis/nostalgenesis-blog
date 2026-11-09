@@ -2,10 +2,10 @@
 layout: ../../layouts/ArticleLayout.astro
 title: "<em>Tra le stelle potresti aver ragione</em> (1982)"
 date: 2026-09-06, 18:00
+introduzione: |
+    Poesia tratta dalla raccolta <b>L'ora della grazia</b> (1982) del poeta israeliano Yehuda Amichai.<br>
+    Pubblicata in onore della XXVII Giornata Europea della Cultura Ebraica, il cui tema di quest'anno è "L'Amore".
 ---
-
-*Poesia tratta dalla raccolta **L'ora della grazia** (1982) del poeta israeliano Yehuda Amichai.
-Pubblicata in onore della XXVII Giornata Europea della Cultura Ebraica, il cui tema di quest'anno è "L'Amore".*
 
 > “Tra le stelle potresti aver ragione,  
 ma non qui”, e mentre parlavamo  

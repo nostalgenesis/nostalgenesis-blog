@@ -2,13 +2,13 @@
 layout: ../../layouts/ArticleLayout.astro
 title: "<em>Mondo cane</em> (1962): una scandalosa etnoparadossografia"
 date: 2026-08-28
+introduzione: |
+  (Già pubblicato <a href="https://incontrosenzafine.wordpress.com/2025/03/07/mondo-cane-1962-una-scandalosa-etnoparadossografia/">altrove</a> il 7 marzo 2025.)
 bibliografia:
   - "Fabrizio Fogliato, <em>Paolo Cavara. Gli occhi che raccontano il mondo</em>, Edizioni Il Foglio, 2014."
   - "Paolo Cavara, Tonino Guerra, Alberto Moravia (a cura di Alberto Pezzotta), <em>L’occhio selvaggio</em>, Milano, Bompiani, 2014."
   - "<a href='http://www.arabeschi.it/costruire-il-reale-primi-rilievi-per-una-ricontestualizzazione-critica-dei-mondo-movies-italiani/'>Giuseppe Previtali, <em>Costruire il reale. Primi rilievi per una ricontestualizzazione critica dei mondo movies italiani</em>, in “Arabeschi”, n. 8, 2016, pp. 163-171.</a>"
 ---
-
-*(Già pubblicato [altrove](https://incontrosenzafine.wordpress.com/2025/03/07/mondo-cane-1962-una-scandalosa-etnoparadossografia/) il 7 marzo 2025.)*
 
 > Di tutti gli esseri viventi, l’uomo è l’unico che venga al mondo piangendo perché il pianto, dicono gli ostetrici, aiuta il neonato a respirare e dà l’avvio ai polmoni. Ma noi, con tutto il rispetto per gli ostetrici, **siamo di parere diverso**: crediamo che l’uomo, unico animale intelligente del creato, manifesti piangendo **il proprio disappunto per il nuovo ambiente** in cui è venuto a cadere. […] Tuttavia la sua è una protesta che dura poco, qualche giorno o qualche settimana, e la prima impressione, quella giusta, scomparirà al di là dei ricordi. Man mano che il neonato crescerà, **immagini nuove e false** si affolleranno nella sua mente. Uomini e donne […] l’aiuteranno adesso a **proseguire nell’equivoco**; una dopo l’altra accoglierà e farà sue le idee **più comode e convenzionali**. Verrà a sapere che il mondo è fatto di buoni e di cattivi, ma che i buoni siamo noi ed i cattivi sono gli altri. Sentirà parlare di **evoluzione**, di **civiltà** e, se guardandosi allo specchio, si accorgerà di avere la **cravatta**, si convincerà di essere evoluto e civile. Tutto ciò che lo riguarda o riguarda il mondo che lo circonda troverà presso di lui una giustificazione tanto precisa quanto presuntuosa. Ogni “perché” troverà la sua risposta, tutto sarà spiegato, tutto sarà logico e se non ci arriverà da solo, gli altri ci saranno arrivati anche per lui.
 

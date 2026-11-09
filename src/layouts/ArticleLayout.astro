@@ -1,11 +1,11 @@
 ---
 import Layout from './Layout.astro';
+import Fleuron from '../components/Fleuron.astro';
 
 const { frontmatter } = Astro.props;
-const { title, date, bibliografia } = frontmatter;
+const { title, date, introduzione, bibliografia } = frontmatter;
 const d = new Date(date);
 
-// Rimuove i tag HTML per il titolo della pagina (browser tab)
 const plainTitle = title ? title.replace(/<[^>]*>?/gm, '') : '';
 ---
 <Layout title={`${plainTitle} · Daniel Di Primo`}>
@@ -17,17 +17,28 @@ const plainTitle = title ? title.replace(/<[^>]*>?/gm, '') : '';
       <h1 set:html={title} />
     </header>
 
+    {introduzione && (
+      <div class="introduzione" set:html ={introduzione} style=" font-style: italic;">
+        <p>{introduzione}</p>
+      </div>
+      <Fleuron />
+    )}
+
     <div class="entry-content">
       <slot />
     </div>
-
+    <Fleuron />
+    
     {bibliografia && (
-      <section class="bibliografia">
-        <h2>Letture</h2>
-        <ul>
-          {bibliografia.map((voce: string) => <li set:html={voce} />)}
-        </ul>
-      </section>
+      <>
+        <Fleuron />
+        <section class="bibliografia">
+          <h2>Letture</h2>
+          <ul>
+            {bibliografia.map((voce: string) => <li set:html={voce} />)}
+          </ul>
+        </section>
+      </>
     )}
   </article>
 </Layout>
