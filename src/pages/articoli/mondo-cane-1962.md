@@ -21,7 +21,7 @@ Ma prima del successo, ancora durante le riprese nel 1961, il tema del film veni
 Messa così, potrebbe anche sembrare un’**opera mondo**, anche bellina e istruttiva. Di questo si tratta, scene messe una di fianco all’altra e commentate in voiceover. Bozzetti etnografici con didascalia.
 
 <figure>
-  <img src="/immagini/mondo_cane.jpg" alt="Fotogramma del film Mondo cane: un cimitero sottomarino dell'arcipelago malese.">
+  <img src="/immagini/mondo_cane.jpg" alt="Fotogramma del film Mondo cane: un cimitero sottomarino dell'arcipelago malese." title="Fotogramma del film Mondo cane: un cimitero sottomarino dell'arcipelago malese.">
   <figcaption>«Gli indigeni dell'arcipelago malese seppelliscono i loro morti in questo immenso cimitero sottomarino. Qui la religione insegna che il mare lava il corpo dei defunti e lo libera del peccato.»</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ E la dicotomia “civilizzato” vs “primitivo” tarda a morire ai nostri gio
 Piccola nota: fu Cavara stesso, qualche anno dopo, a voler raccontare l’esperienza di un regista di documentari che gira il mondo alla costante ricerca di **scene finte di reale sofferenza**: lo farà nel film *L’occhio selvaggio* del 1967, dove lo spettatore vede esplicitate tutte le domande che si era fatto durante la visione di *Mondo cane*. Un occhio può essere solamente un occhio all’interno di questo mondo, può non intervenire? Una valida (per quanto scontata) risposta è contenuta nel finale de *L’occhio selvaggio*. Ma di fronte alla sempre maggiore complessità del mondo che noi possiamo conoscere tramite il giornalismo e la rete, le domande si moltiplicano.
 
 <figure>
-  <img src="/immagini/wild.jpg" alt="Fotogramma da L'occhio selvaggio.">
+  <img src="/immagini/wild.jpg" alt="Fotogramma da L'occhio selvaggio." title="Fotogramma da L'occhio selvaggio">
   <figcaption>Scena dal film L’occhio selvaggio.</figcaption>
 </figure>
 
